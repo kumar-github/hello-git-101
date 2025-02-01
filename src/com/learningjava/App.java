@@ -9,5 +9,14 @@ public class App {
 
     private void go() {
         // call the new code from here
+
+        Calculator calculator = new Calculator();
+        System.out.println(calculator.isEven(10));
+        System.out.println(calculator.isEven(9));
+        System.out.println(calculator.isOdd(10));
+        System.out.println(calculator.isOdd(9));
+
+
+
     }
 }

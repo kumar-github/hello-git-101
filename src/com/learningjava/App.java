@@ -14,5 +14,7 @@ public class App {
         System.out.println(calculator.isEven(9));
         System.out.println(calculator.isOdd(10));
         System.out.println(calculator.isOdd(9));
+        System.out.println(calculator.addingTwoNumbers(10,9));
+
     }
 }

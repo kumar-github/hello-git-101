@@ -15,6 +15,5 @@ public class App {
         System.out.println(calculator.isOdd(10));
         System.out.println(calculator.isOdd(9));
         System.out.println(calculator.add(10,9));
-        System.out.println(calculator.subtract(10,9));
     }
 }
